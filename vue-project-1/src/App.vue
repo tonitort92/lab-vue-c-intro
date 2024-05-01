@@ -26,6 +26,7 @@ import FeaturesComponent from './components/FeaturesComponent.vue'
   flex-direction: column;
   align-items: stretch;
   gap: 50px;
+  justify-content: space-between;
 
 }
 
